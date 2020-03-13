@@ -25,4 +25,4 @@ function miniMaxSum(arr) {
 
 
 miniMaxSum([1, 4, 2, 5, 3])
-console.log(miniMaxSum)
+console.log(miniMaxSum)mm
